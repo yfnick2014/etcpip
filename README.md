@@ -7,8 +7,8 @@ Effective TCP/IP Programming
     - [技巧2 理解子网和CIDR](content/02.02.md)
     - [技巧3 理解私有地址和NAT](content/02.03.md)
     - [技巧4 开发和使用应用程序“框架”](content/02.04.md)
-    - 技巧5 选择套接字接口而不是XTI/TLI
-    - 技巧6 记住TCP是一个流协议
+    - [技巧5 选择套接字接口而不是XTI/TLI](content/02.05.md)
+    - [技巧6 记住TCP是一个流协议](content/02.06.md)
     - 技巧7 不要低估TCP的性能
     - 技巧8 不要彻底改造TCP
     - 技巧9 注意TCP是可靠的协议但并非是不会出错的协议
