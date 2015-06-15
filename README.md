@@ -4,9 +4,9 @@ Effective TCP/IP Programming
 - [第一章 简介](content/01.md)
 - 第二章 基本知识
     - [技巧1 理解基于连接和无连接协议之间的差异](content/02.01.md)
-    - 技巧2 理解子网和CIDR
-    - 技巧3 理解私有地址和NAT
-    - 技巧4 开发和使用应用程序“框架”
+    - [技巧2 理解子网和CIDR](content/02.02.md)
+    - [技巧3 理解私有地址和NAT](content/02.03.md)
+    - [技巧4 开发和使用应用程序“框架”](content/02.04.md)
     - 技巧5 选择套接字接口而不是XTI/TLI
     - 技巧6 记住TCP是一个流协议
     - 技巧7 不要低估TCP的性能
