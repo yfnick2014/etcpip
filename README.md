@@ -18,14 +18,14 @@ Effective TCP/IP Programming
     - 技巧13 学习协议是如何工作的
     - [技巧14 不要把OSI七层参考模型看得太重要了](content/02.14.md)
 - 第三章 创建高效和健壮的网络程序
-    - [技巧15 理解TCP写操作](content/02.15.md)
-    - 技巧16 理解TCP顺序释放操作
-    - 技巧17 考虑让inetd启动应用程序
+    - [技巧15 理解TCP写操作](content/03.15.md)
+    - [技巧16 理解TCP顺序释放操作](content/03.16.md)
+    - [技巧17 考虑让inetd启动应用程序](content/03.17.md)
     - 技巧18 考虑让tcpmux“指定”服务器的已知端口
     - 技巧19 考虑使用两个TCP连接
     - 技巧20 考虑使应用程序事件驱动（1）
     - 技巧21 考虑使应用程序事件驱动（2）
-    - 技巧22 不要使用TIME-WAIT ASSASSINATION关闭连接
+    - [技巧22 不要使用TIME-WAIT ASSASSINATION关闭连接](content/03.22.md)
     - 技巧23 服务器应当设置SO_REUSEADDR选项
     - 技巧24 尽量使用大型写操作代替多个小规模写操作
     - 技巧25 理解如何使connect调用具有超时机制
